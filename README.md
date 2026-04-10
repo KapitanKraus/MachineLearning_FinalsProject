@@ -1,6 +1,5 @@
 # ChurnShield — Machine Learning Customer Churn Decision Support System
  
-**Marc Kraus S. Angeles**
 *Introduction to Machine Learning Finals Project*
  
 ---
